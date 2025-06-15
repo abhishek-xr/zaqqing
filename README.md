@@ -1,8 +1,7 @@
 # Smart Order MVP
 
 ## **Overview**
-Smart Order MVP is a local tool designed to parse unstructured email orders, validate them against a product catalog, and merge them into a structured sales order. It includes APIs for order validation, merging, and product catalog management, along with a database-backed system for tracking orders and products.
-
+Please read the Roadmap.md and PRD.md for details on project breakdown
 ---
 
 ## **Features**
